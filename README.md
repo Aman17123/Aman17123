@@ -39,18 +39,6 @@ Music + deep focus mode is my secret to writing clean, efficient code.
 
 ---
 
-## 🧱 3D Model Viewer
-
-<p align="center">
-  <a href="https://sketchfab.com/3d-models/0cc4069e8c6e4a0194aef7fe5c0b1538" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/sketchfab-3628713-3030009.png" width="100" alt="Sketchfab Logo" />
-    <br />
-    <b>Click to view 3D model on Sketchfab</b>
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Demo |
@@ -88,7 +76,7 @@ Music + deep focus mode is my secret to writing clean, efficient code.
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aman17123&theme=radical" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Aman17123/Aman17123/main/streak-stats.png" width="400" alt="GitHub Streak" />
 </p>
 
 ---
