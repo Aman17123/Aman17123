@@ -1,38 +1,89 @@
-<!-- 🥷 Custom Font -->
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
-  * {
-    font-family: 'Josefin Sans', sans-serif;
-  }
-</style>
-
-# 🥷 Aman Nakoti — Full Stack Developer
-
-Hi, I'm **Aman Nakoti**, a full-stack developer who specializes in building high-performance, visually engaging web applications using **React**, **Tailwind**, **Framer Motion**, and **Three.js**. I love combining aesthetics with performance to create immersive digital experiences.
-
----
-
-## 🎴 Samurai Vibes
+<h1 align="center">🚀 Portfolio of Aman Nakoti</h1> 
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="60%" alt="Samurai Image" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Game+Developer" alt="Aman Nakoti: Fullstack Developer, Software Engineer, Game Developer" />
 </p>
 
 ---
 
-## 🚀 Projects
+<table width="100%">
+  <tr>
+    <td valign="top" style="padding: 10px;">
 
-| Project Name     | Preview & Links                                 |
-|------------------|--------------------------------------------------|
-| **🎒 Rafting Pro Website** | 🌍 [Live Site](https://your-rafting-site.vercel.app) • 🛠️ Adventure booking + UI animations |
-| **🌌 3D Portfolio**        | 🧊 [View Portfolio](https://your-3d-portfolio.vercel.app) • 3D scenes + glass UI |
-| **👟 Sneaker Drop (WIP)**  | 🔜 Coming Soon •
+Hello! I'm **Aman Nakoti**, a passionate developer with a love for building bold, interactive, and high-performing digital experiences.
+
+### 🔭 What I'm currently working on:
+- Full Stack Adventure Website
+- MERN Stack Projects
+- Interactive 3D Portfolio
+
+### 🌱 My Learning Focus:
+- Deep diving into **Java DSA**
+- Mastering the **MERN Stack**
+- Learning **AI/ML**
+
+### ⚡ Fun Fact:
+I debug best with samurai discipline, coffee ☕, and a fire playlist 🎧!
+
+</td>
+<td align="center" style="padding: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="300" alt="Samurai" />
+</td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Skills
+## 💻 Tech Stack
 
-```js
-Frontend  : React, Tailwind, Framer Motion, Three.js  
-Backend   : Node.js, Express, MongoDB  
-Tools     : Git, Figma, Vercel, Postman  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,unity,cs,java,python,mongodb,linux,git,github,aiscript,vscode,docker,tailwind,firebase&perline=8" alt="My Tech Stack" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=radical" alt="Aman's GitHub Stats" />
+</p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aman17123&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman17123&theme=monokai" alt="GitHub Trophies" />
+</p>
+
+---
+
+## ✨ Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🔍 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman17123&label=Profile%20views&color=0e75b6&style=flat" alt="Visitor counter" />
+</p>
