@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Portfolio of Aniket Sundriyal</h1>
+<h1 align="center">⚔️ Portfolio of Aman Nakoti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Game+Developer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Frontend+Engineer;3D+Portfolio+Creator" alt="Aman Nakoti: Fullstack Developer, Frontend Engineer, 3D Portfolio Creator" />
 </p>
 
 ---
@@ -10,22 +10,22 @@
   <tr>
     <td valign="top" style="padding: 10px;">
 
-Hello! I'm Aniket Sundriyal, a passionate developer with a keen interest in building innovative solutions.
+Hey there! I'm **Aman Nakoti**, a developer driven by creativity, logic, and visual storytelling. I craft immersive UIs and push the boundaries of frontend tech with real-world, full-stack projects.
 
-**🔭 What I'm currently working on:**
-- AI Projects
-- Full Stack Web Development
-- Game Development
+🔭 **What I'm currently building:**
+- 3D Web Portfolio (Three.js, GSAP)
+- Adventure Tour Website (React + Framer Motion)
+- Sneaker eCommerce (Full MERN Stack)
 
-**🌱 My learning journey:**
-I'm currently diving deep into *Java DSA*, mastering the **MERN Stack**, and expanding into **AI/ML**.
+🌱 **On my radar:**
+Mastering **Node.js**, building scalable backends, and diving deep into **Next.js + MongoDB** stacks.
 
-**⚡ Fun Fact:**
-A mix of coffee ☕ and music 🎧 makes my debugging 10x faster!
+⚡ **Fun fact:**  
+I’m addicted to aesthetic design, smooth UI transitions, and always hunting for that perfect hover animation. I breathe caffeine ☕, code with playlists on repeat 🎧, and love breaking limits 💻🔥
 
 </td>
 <td align="center" style="padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="350" alt="Samurai Image" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="350" alt="Samurai Art" />
 </td>
   </tr>
 </table>
@@ -35,27 +35,32 @@ A mix of coffee ☕ and music 🎧 makes my debugging 10x faster!
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,unity,cs,java,python,mongodb,linux,git,github,aiscript,vscode,docker,tailwind,firebase&perline=8" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs,express,mongodb,tailwind,figma,git,github,vercel,vscode,unity,cs,threejs,docker&perline=9" alt="My Tech Stack" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Live Projects
 
-| Project | Live Demo | GitHub |
-|--------|-----------|--------|
-| 🧠 AI Text Summarizer | [View Live](https://your-live-demo-link.com) | [Source Code](https://github.com/Aman17123/ai-summarizer) |
-| 👟 Sneaker Store Fullstack | [View Live](https://your-sneaker-site.com) | [Source Code](https://github.com/Aman17123/sneaker-store) |
-| 🎮 3D Portfolio Website | [View Live](https://aman-3d-portfolio.vercel.app) | [Source Code](https://github.com/Aman17123/3d-portfolio) |
+| Project | Tech Stack | Live Demo | GitHub Repo |
+|--------|------------|-----------|-------------|
+| 🧭 **Adventure Website** | React, Tailwind, Framer Motion | [Live](https://your-live-demo-link.com) | [GitHub](https://github.com/Aman17123/adventure-site) |
+| 👟 **Sneaker Store** | MERN Stack, Redux, Firebase | [Live](https://your-live-demo-link.com) | [GitHub](https://github.com/Aman17123/sneaker-store) |
+| 🧠 **AI Tools Showcase** | React, OpenAI API, CSSFX | [Live](https://your-live-demo-link.com) | [GitHub](https://github.com/Aman17123/ai-tools) |
+| 🧩 **3D Portfolio** | Three.js, GSAP, React | [Live](https://your-live-demo-link.com) | [GitHub](https://github.com/Aman17123/3d-portfolio) |
 
-> _Replace the links above with your actual project links_
+> ✨ More projects on [github.com/Aman17123](https://github.com/Aman17123)
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=radical" alt="Aman's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -64,14 +69,6 @@ A mix of coffee ☕ and music 🎧 makes my debugging 10x faster!
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aman17123&theme=monokai" alt="GitHub Trophies" />
-</p>
-
----
-
-## ✨ Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
