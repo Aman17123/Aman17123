@@ -6,7 +6,7 @@
 <h1 align="center">🚀 Portfolio of Aman Nakoti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Explorer" alt="Aman Nakoti Typing Animation" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Explorer](https://en.wikipedia.org/wiki/Samurai#/media/File:Koboto_Santaro,_a_Japanese_military_commander_Wellcome_V0037661.jpg)" alt="Aman Nakoti Typing Animation" />
 </p>
 
 ---
