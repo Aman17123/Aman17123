@@ -1,74 +1,38 @@
-<!-- 🖼️ Custom GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7hRZzkr1q3qCE/giphy.gif" alt="Banner GIF" width="100%" />
-</p>
+<!-- 🥷 Custom Font -->
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@500&display=swap');
+  * {
+    font-family: 'Josefin Sans', sans-serif;
+  }
+</style>
 
-# 🥷 Aman Nakoti — Samurai Dev | Full Stack × 3D
+# 🥷 Aman Nakoti — Full Stack Developer
 
-Hi, I'm Aman — a full-stack web developer with a passion for **interactive UIs**, **3D portfolios**, and **highly animated experiences**. I build immersive sites using modern stacks, creative animation libraries, and sometimes go full *samurai mode* 🗡️ on design.
-
----
-
-## ⚙️ Tech Stack
-
-- **Frontend:** React, Next.js, Vite, TailwindCSS, Framer Motion, GSAP
-- **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, Figma, Postman, Vercel, Netlify
-- **Creative:** Three.js, React Three Fiber, Blender (basic)
+Hi, I'm **Aman Nakoti**, a full-stack developer who specializes in building high-performance, visually engaging web applications using **React**, **Tailwind**, **Framer Motion**, and **Three.js**. I love combining aesthetics with performance to create immersive digital experiences.
 
 ---
 
-## ⚔️ Samurai Mode Activated
+## 🎴 Samurai Vibes
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="80%" alt="Samurai Image" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="60%" alt="Samurai Image" />
 </p>
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman17123&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 🚀 Projects Showcase
-
-| 🧩 Project | 💬 Description | 🔧 Tech Stack |
-|-----------|----------------|---------------|
-| **🌊 Rafting Pro** | Adventure-themed animated rafting site with image sliders, modals, scroll effects & booking. | React, Tailwind, Framer Motion |
-| **👟 Sneaker Drop** *(Coming Soon)* | Premium sneaker eCommerce site with admin panel & full payment flow. | MERN, Stripe, Motion |
-| **🧙‍♂️ 3D Portfolio** | WebGL-based portfolio with real-time models and animations. | Three.js, TailwindCSS, Vite |
+| Project Name     | Preview & Links                                 |
+|------------------|--------------------------------------------------|
+| **🎒 Rafting Pro Website** | 🌍 [Live Site](https://your-rafting-site.vercel.app) • 🛠️ Adventure booking + UI animations |
+| **🌌 3D Portfolio**        | 🧊 [View Portfolio](https://your-3d-portfolio.vercel.app) • 3D scenes + glass UI |
+| **👟 Sneaker Drop (WIP)**  | 🔜 Coming Soon •
 
 ---
 
-## 🌓 Dark Mode Friendly
+## 🛠️ Skills
 
-> This README auto-adapts to GitHub's dark/light mode.  
-> **Try switching your GitHub theme** — it's responsive and themed for both.
-
----
-
-## 🧠 GitHub Stats (Optional Add)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-- 🔗 GitHub: [Aman17123](https://github.com/Aman17123)
-- 🔗 LinkedIn: [Aman Nakoti](https://linkedin.com/in/your-profile)
-- 🔗 Portfolio: *coming soon...*
-- 📬 Email: your@email.com
-
----
-
-<p align="center">
-  Built with ❤️ + ☕ + Samurai Spirit
-</p>
+```js
+Frontend  : React, Tailwind, Framer Motion, Three.js  
+Backend   : Node.js, Express, MongoDB  
+Tools     : Git, Figma, Vercel, Postman  
