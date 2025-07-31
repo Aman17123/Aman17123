@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Portfolio of Aman Nakoti</h1> 
+<h1 align="center">🚀 Portfolio of Aniket Sundriyal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Game+Developer" alt="Aman Nakoti: Fullstack Developer, Software Engineer, Game Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Game+Developer" alt="Typing animation" />
 </p>
 
 ---
@@ -10,24 +10,22 @@
   <tr>
     <td valign="top" style="padding: 10px;">
 
-Hello! I'm **Aman Nakoti**, a passionate developer with a love for building bold, interactive, and high-performing digital experiences.
+Hello! I'm Aniket Sundriyal, a passionate developer with a keen interest in building innovative solutions.
 
-### 🔭 What I'm currently working on:
-- Full Stack Adventure Website
-- MERN Stack Projects
-- Interactive 3D Portfolio
+**🔭 What I'm currently working on:**
+- AI Projects
+- Full Stack Web Development
+- Game Development
 
-### 🌱 My Learning Focus:
-- Deep diving into **Java DSA**
-- Mastering the **MERN Stack**
-- Learning **AI/ML**
+**🌱 My learning journey:**
+I'm currently diving deep into *Java DSA*, mastering the **MERN Stack**, and expanding into **AI/ML**.
 
-### ⚡ Fun Fact:
-I debug best with samurai discipline, coffee ☕, and a fire playlist 🎧!
+**⚡ Fun Fact:**
+A mix of coffee ☕ and music 🎧 makes my debugging 10x faster!
 
 </td>
 <td align="center" style="padding: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="300" alt="Samurai" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Koboto_Santaro%2C_a_Japanese_military_commander_Wellcome_V0037661.jpg" width="350" alt="Samurai Image" />
 </td>
   </tr>
 </table>
@@ -42,26 +40,22 @@ I debug best with samurai discipline, coffee ☕, and a fire playlist 🎧!
 
 ---
 
+## 📂 Featured Projects
+
+| Project | Live Demo | GitHub |
+|--------|-----------|--------|
+| 🧠 AI Text Summarizer | [View Live](https://your-live-demo-link.com) | [Source Code](https://github.com/Aman17123/ai-summarizer) |
+| 👟 Sneaker Store Fullstack | [View Live](https://your-sneaker-site.com) | [Source Code](https://github.com/Aman17123/sneaker-store) |
+| 🎮 3D Portfolio Website | [View Live](https://aman-3d-portfolio.vercel.app) | [Source Code](https://github.com/Aman17123/3d-portfolio) |
+
+> _Replace the links above with your actual project links_
+
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=radical" alt="Aman's GitHub Stats" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aman17123&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
