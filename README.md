@@ -1,7 +1,7 @@
-<h1 align="center">🚀 Portfolio of Aniket Sundriyal</h1> 
+<h1 align="center">🚀 Portfolio of Aman Nakoti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Software+Engineer;Game+Developer" alt="Aniket Sundriyal: Fullstack Developer, Software Engineer, Game Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Explorer" alt="Aman Nakoti Typing Animation" />
 </p>
 
 ---
@@ -10,18 +10,20 @@
   <tr>
     <td valign="top" style="padding: 10px;">
 
-Hello! I'm Aniket Sundriyal, a passionate developer with a keen interest in building innovative solutions.
+Hey there! I'm **Aman Nakoti**, a creative and driven full-stack developer who loves building bold, powerful digital experiences.
 
-*🔭 What I'm currently working on:*
-* AI Projects.
-* Full Stack Web Development.
-* Game Development.
+**🔭 Currently working on:**
+- Full Stack MERN Applications 🚀
+- Real-time & Scalable Backend Systems ⚙️
+- 3D Portfolio Experiences 🌐
 
-*🌱 My learning journey:*
-I'm continuously expanding my skillset, currently diving deep into *Java DSA, mastering the **MERN Stack, and advancing my knowledge in **AI/ML*.
+**🌱 Always learning:**
+- Java DSA & System Design
+- Clean Backend Architecture
+- AI/ML integration in web apps
 
-*⚡ Fun Fact:*
-My productivity secret? A perfect blend of coffee ☕ and music 🎧 helps me debug code faster!
+**⚡ Fun Fact:**
+I code like I lift—focused, intense, and with no skipped reps 💪. Coffee and logic loops fuel me daily ☕🧠
 
 </td>
 <td align="center" style="padding: 10px;">
@@ -35,7 +37,7 @@ My productivity secret? A perfect blend of coffee ☕ and music 🎧 helps me de
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,express,unity,cs,java,python,mongodb,linux,git,github,aiscript,vscode,docker,tailwind,firebase&perline=8" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,python,java,cs,unity,git,github,linux,vscode,docker,firebase&perline=8" alt="My Tech Stack" />
 </p>
 
 ---
@@ -56,7 +58,7 @@ My productivity secret? A perfect blend of coffee ☕ and music 🎧 helps me de
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📈 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night" alt="GitHub Activity Graph" />
