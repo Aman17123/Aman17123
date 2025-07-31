@@ -1,3 +1,8 @@
+<!-- 🚀 Custom Banner -->
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b15c5d168582179.6435b3a61c496.gif" alt="3D Banner" width="100%" />
+</p>
+
 <h1 align="center">🚀 Portfolio of Aman Nakoti</h1>
 
 <p align="center">
@@ -10,34 +15,62 @@
   <tr>
     <td valign="top" style="padding: 10px;">
 
-Hey there! I'm **Aman Nakoti**, a creative and driven full-stack developer who loves building bold, powerful digital experiences.
+Hey there! I'm **Aman Nakoti**, a creative full-stack developer passionate about building immersive digital experiences.
 
 **🔭 Currently working on:**
 - Full Stack MERN Applications 🚀
-- Real-time & Scalable Backend Systems ⚙️
-- 3D Portfolio Experiences 🌐
+- 3D Web Portfolios with React Three Fiber 🌐
+- Backend Systems & AI Integration ⚙️
 
 **🌱 Always learning:**
-- Java DSA & System Design
-- Clean Backend Architecture
-- AI/ML integration in web apps
+- Java DSA, System Design
+- Framer Motion, Three.js, WebGL
+- AI/ML in Real-World Use
 
 **⚡ Fun Fact:**
-I code like I lift—focused, intense, and with no skipped reps 💪. Coffee and logic loops fuel me daily ☕🧠
+I build UIs like I build muscle—precise, clean, and gaand faad. Coffee ☕ and console logs make my day!
 
 </td>
 <td align="center" style="padding: 10px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamlvazE4eGpha2I0cHU3cWtwdXpzMGZyMDBxYmxuMjRwdW5oN2Y5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding animation" />
+  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding animation" />
 </td>
   </tr>
 </table>
 
 ---
 
+## 🧱 3D Model Viewer
+
+<p align="center">
+  <iframe title="3D Model" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"
+  width="600" height="400"
+  src="https://sketchfab.com/models/0cc4069e8c6e4a0194aef7fe5c0b1538/embed"> </iframe>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Demo |
+|--------|-------------|------------|------|
+| 🎮 **3D Portfolio** | Interactive portfolio using React Three Fiber and GSAP | React, Three.js, Tailwind | [Live Demo](#) |
+| 👟 **Sneaker Store** | E-commerce platform with admin panel | MERN, Redux, Stripe | [Live Demo](#) |
+| 🌌 **Starry Blog** | Markdown-based blog with dark mode toggle | Next.js, MDX | [Live Demo](#) |
+
+---
+
+## 🌓 Dark Mode Toggle Animation
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="280" alt="dark mode toggle animation" />
+</p>
+
+---
+
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,python,java,cs,unity,git,github,linux,vscode,docker,firebase&perline=8" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,python,java,cs,unity,git,github,docker,firebase,vscode,linux&perline=9" alt="My Tech Stack" />
 </p>
 
 ---
