@@ -8,11 +8,14 @@
   <a href="https://github.com/Aman17123">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/aman-nakoti">
+  <a href="https://www.www.linkedin.com/in/aman-nakoti">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aman@example.com">
+  <a href="mailto:amannakoti0@example.com">
     <img src="https://img.shields.io/badge/Email-222222?style=flat&logo=gmail&logoColor=D14836" />
+  </a>
+  <a href="https://portfolio-nextjs-sable-one.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat&logo=vercel&logoColor=white" />
   </a>
 </p>
 
@@ -28,6 +31,7 @@ Hi, I’m **Aman Nakoti** — a developer crafting sleek **UIs**, immersive **3D
 
 - 🌱 **Exploring:** Next.js · Node.js · MongoDB  
 - ⚡ **Fun Fact:** Clean UI + Coffee = Happiness ☕  
+- 🌐 **Portfolio:** [portfolio-nextjs-sable-one.vercel.app](https://portfolio-nextjs-sable-one.vercel.app/)
 
 ---
 
