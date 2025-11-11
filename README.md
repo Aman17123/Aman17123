@@ -8,6 +8,7 @@
   <a href="https://github.com/Aman17123">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white" />
   </a>
+  <br/>
   <a href="https://www.www.linkedin.com/in/aman-nakoti">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
