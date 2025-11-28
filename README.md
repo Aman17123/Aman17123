@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Aman Nakot | Frontend Developer</h1>
+<h1 align="center">⚡ Aman Nakoti | Frontend Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=450&lines=Frontend+Engineer;Fullstack+Developer;3D+Web+Creator" alt="Typing Animation" />
