@@ -41,11 +41,7 @@ I focus on scalable UI systems, intentional motion, and visuals that run smoothl
 <br/>
 
 <!-- Stats -->
-<h3>GitHub Stats</h3>
-<div align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=transparent&hide_border=true" />
-</div>
+
 
 <br/>
 
