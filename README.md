@@ -1,86 +1,52 @@
-<!-- HEADER -->
-<h1 align="center">⚡ Aman Nakoti — Frontend Engineer & 3D Web Developer</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2500&pause=700&color=00E7FF&center=true&vCenter=true&width=520&lines=Frontend+Engineer;Fullstack+Developer;3D+Web+Creator;Building+Immersive+Web+Experiences" />
-</p>
-
-<br/>
-
-<!-- SOCIAL LINKS -->
-<p align="center">
-  <a href="https://github.com/Aman17123">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aman-nakoti">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amannakoti0@example.com">
-    <img src="https://img.shields.io/badge/Email-242424?style=for-the-badge&logo=gmail&logoColor=D14836" />
-  </a>
-  <a href="https://portfolio-nextjs-sable-one.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
-<br/>
-<hr/>
-
-<!-- ABOUT ME -->
-## 🌌 About Me  
-Hi, I’m **Aman Nakoti** — a developer who loves crafting elegant **user interfaces**, building **3D web experiences**, and engineering modern **full-stack applications** with clean, scalable code.
-
-### 🔭 Currently Working On
-- 3D Portfolio (Three.js + GSAP)  
-- Adventure Tour App (React + Framer Motion)  
-- Sneaker Store (MERN Stack)
-
-### 🌱 Learning  
-Next.js · Node.js · MongoDB
-
-### ⚡ Fun Fact  
-Great UI is caffeine for the brain.
-
-### 🌐 Portfolio  
-**https://portfolio-nextjs-sable-one.vercel.app/**  
-
-<hr/>
-
-<!-- TECH STACK -->
-## 🚀 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,figma,threejs,vscode&theme=dark&perline=9" />
-</p>
-
-<hr/>
-
-<!-- PROJECTS -->
-## 🧠 Featured Projects  
+<!-- HERO SECTION -->
 <div align="center">
-  <p><i>✨ New featured projects will appear here soon...</i></p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=700&color=00F7FF&center=true&vCenter=true&width=650&lines=Aman+Nakoti+—+Frontend+Engineer;Creating+3D+Web+Worlds;Building+Modern+Full-Stack+Products;Pushing+UI+to+the+Future" />
+
+  <br/><br/>
+
+  <!-- NEON CARD -->
+  <div style="
+      border: 1px solid #00f0ff55;
+      width: 80%;
+      padding: 18px;
+      border-radius: 14px;
+      background: linear-gradient(135deg, #0a0a0a, #111827);
+      box-shadow: 0 0 18px #00eaff33;
+  ">
+    <h2>Design-Driven Frontend Developer crafting immersive digital experiences.</h2>
+  </div>
+
+  <br/>
+
+  <!-- SOCIAL BADGES -->
+  <p>
+    <a href="https://github.com/Aman17123">
+      <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/aman-nakoti">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:amannakoti0@example.com">
+      <img src="https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=D14836" />
+    </a>
+    <a href="https://portfolio-nextjs-sable-one.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
+
 </div>
 
-<hr/>
+---
 
-<!-- GITHUB STATS -->
-## 📊 GitHub Stats  
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+## ⚡ Current Missions  
+A snapshot of what I’m engineering right now:
 
-<hr/>
+```yaml
+Frontend:
+  - 3D Portfolio (Three.js + GSAP)
+  - Adventure Tour App (React + Framer Motion)
+  - Sneaker Store (MERN Stack)
 
-<!-- TROPHY -->
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aman17123&theme=algolia&no-frame=true&margin-w=12" />
-</p>
-
-<hr/>
-
-<!-- PROFILE VIEWS -->
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman17123&label=Profile+Views&color=00F7FF&style=flat-square" />
-</p>
+AI/ML:
+  - AI Resume Enhancer (Next.js + LangChain + OpenAI)
