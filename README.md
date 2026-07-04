@@ -101,31 +101,6 @@
 </p>
 
 ---
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  alt="Aman Nakoti GitHub statistics"
-/>
-
-<img
-  height="175"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-  alt="Aman Nakoti most-used languages"
-/>
-
-</div>
-
-<p align="center">
-  <em>Language statistics represent code in public repositories and do not measure overall proficiency.</em>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
