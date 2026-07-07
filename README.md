@@ -100,11 +100,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development tools"/>
 </p>
 
----
----
-
-## 🔥 GitHub Streak
-
 <div align="center">
 
 <img
