@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hi, I'm Aman Nakoti 👋
+# Hi I'm Aman Nakoti 👋
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Frontend+%26+React+Developer;Next.js+Developer;Building+Responsive+%26+AI-Powered+Web+Apps"
