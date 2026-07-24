@@ -10,6 +10,14 @@
   alt="Typing introduction"
 />
 
+<p>
+  <strong>MERN Stack Developer · Frontend Developer · React Developer</strong>
+</p>
+
+<p>
+  B.Tech Computer Science student focused on building responsive, accessible,
+  animated, and production-ready web applications.
+</p>
 
 
 <p>
