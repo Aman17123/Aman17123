@@ -3,7 +3,6 @@
 
 <div align="center">
 
-# Hi, I'm Aman Nakoti 👋
 
 
 <img
