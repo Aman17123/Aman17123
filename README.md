@@ -1,25 +1,24 @@
-
 <!-- GitHub Profile README for github.com/Aman17123 -->
 
 <div align="center">
-# Hi, I'm Aman Nakoti 👋
-
-
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=MERN+Stack+Developer;Frontend+%26+React+Developer;Next.js+Developer;Building+Responsive+%26+AI-Powered+Web+Apps"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aman+Nakoti+%F0%9F%91%8B;React+%26+Next.js+Intern+%40+Devbhoomi+Infotech;MERN+Stack+Developer;Building+Responsive+%26+AI-Powered+Web+Apps"
   alt="Typing introduction"
 />
 
+<br/>
+
+<img src="https://img.shields.io/badge/💼_Currently_Interning_at-Devbhoomi_Infotech-58A6FF?style=for-the-badge&labelColor=0d1117" alt="Current Internship"/>
+
 <p>
-  <strong>MERN Stack Developer · Frontend Developer · React Developer</strong>
+  <strong>React & Next.js Intern</strong> · <strong>Freelance Web Developer</strong> · <strong>MERN Stack Developer</strong>
 </p>
 
 <p>
   B.Tech Computer Science student focused on building responsive, accessible,
   animated, and production-ready web applications.
 </p>
-
 
 <p>
   <a href="https://amannakoti.vercel.app/">
@@ -45,86 +44,102 @@
 
 </div>
 
----
+<br/>
+
+## 💼 Currently
+
+```txt
+const aman = {
+  role: "React & Next.js Intern",
+  company: "Devbhoomi Infotech",
+  companyUrl: "https://www.devbhoomiinfotech.com/",
+  alsoDoing: "Freelance web development",
+  location: "Rishikesh, Uttarakhand, India",
+  status: "Open to internships, frontend roles & freelance projects"
+};
+```
+
+> 🏢 Interning as a **React.js & Next.js Developer** at **[Devbhoomi Infotech](https://www.devbhoomiinfotech.com/)** — building and shipping real client-facing web applications.
+> 🧑‍💻 Alongside my internship, I take on **freelance frontend/full-stack projects**, building responsive websites and web apps for clients.
+
+<br/>
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science student at **Uttaranchal University, Dehradun**
-- 💻 Building modern applications with **React.js, Next.js and the MERN stack**
-- 🎨 Interested in responsive interfaces, animations and clean user experiences
-- ⚙️ Developing REST APIs, authentication systems and database-driven applications
-- 🤖 Exploring AI-powered products and workflow automation
-- 🧠 Practising Data Structures and Algorithms using **C++**
-- 🚀 Open to internships, frontend roles, MERN stack opportunities and freelance projects
-- 📍 Based in Rishikesh, Uttarakhand, India
+```yaml
+Education:     B.Tech Computer Science, Uttaranchal University, Dehradun
+Currently:     React & Next.js Intern @ Devbhoomi Infotech
+Also:          Freelance Web Developer
+Stack:         React.js · Next.js · MERN
+Focus:         Responsive interfaces, animation, clean UX
+Backend:       REST APIs, authentication, database-driven apps
+Exploring:     AI-powered products & workflow automation
+DSA:           Practising with C++
+Open to:       Internships · Frontend roles · MERN opportunities · Freelance work
+Location:      Rishikesh, Uttarakhand, India
+```
 
----
+<br/>
 
 ## 🎯 Current Learning Goals
 
-- Building scalable backend services with Node.js, Express.js and MongoDB
-- Improving authentication, API security and database architecture
-- Integrating AI capabilities into practical web applications
-- Learning workflow automation using tools such as n8n
-- Strengthening Data Structures and Algorithms with C++
-- Improving performance, accessibility and SEO in Next.js applications
+- 🔧 Building scalable backend services with Node.js, Express.js and MongoDB
+- 🔐 Improving authentication, API security and database architecture
+- 🤖 Integrating AI capabilities into practical web applications
+- ⚡ Learning workflow automation using tools such as n8n
+- 🧠 Strengthening Data Structures and Algorithms with C++
+- 🚀 Improving performance, accessibility and SEO in Next.js applications
 
----
+<br/>
 
 ## 🛠️ Technical Skills
 
-### Languages
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,py" alt="Programming languages"/>
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,py" alt="Programming languages"/>
 
-### Frontend Development
+**Frontend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer,threejs" alt="Frontend technologies"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer,threejs" alt="Frontend technologies"/>
-</p>
+</td>
+<td valign="top" width="50%">
 
-### Backend and Databases
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" alt="Backend and databases"/>
+<br/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" alt="Backend and databases"/>
-</p>
+**Tools & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development tools"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
-</p>
+</td>
+</tr>
+</table>
 
-### Development and Deployment Tools
+<br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development tools"/>
-</p>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=Aman17123&theme=tokyonight&hide_border=true"
-  alt="Aman Nakoti GitHub streak"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true"
-  alt="Aman Nakoti contribution activity graph"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman Nakoti GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman17123&theme=tokyonight&hide_border=true" alt="Aman Nakoti GitHub streak" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" alt="Aman Nakoti contribution activity graph" width="95%"/>
 
 </div>
 
----
+<br/>
 
 ## 🤝 Connect With Me
 
@@ -146,14 +161,11 @@
   </a>
 </p>
 
----
-
 <div align="center">
 
-### Let's build something useful together.
+### Let's build something useful together 🚀
 
-I am interested in internships, frontend development, MERN stack development,
-freelance projects and collaboration opportunities.
+Open to internships, frontend development, MERN stack roles, and freelance/collaboration opportunities.
 
 **Thanks for visiting my profile!**
 
