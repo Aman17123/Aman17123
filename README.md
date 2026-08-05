@@ -130,7 +130,7 @@ Location:      Rishikesh, Uttarakhand, India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aman Nakoti GitHub stats" height="165"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman17123&theme=tokyonight&hide_border=true" alt="Aman Nakoti GitHub streak" height="165"/>
 
 <br/>
