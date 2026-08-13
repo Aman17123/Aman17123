@@ -131,16 +131,13 @@ Location:      Rishikesh, Uttarakhand, India
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=Aman17123&theme=tokyonight&hide_border=true" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman17123&theme=tokyonight&hide_border=true" alt="Aman Nakoti GitHub streak" height="165"/>
+<br/><br/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" alt="Aman Nakoti contribution activity graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
 </div>
-
-<br/>
 
 ## 🤝 Connect With Me
 
