@@ -132,7 +132,6 @@ Location:      Rishikesh, Uttarakhand, India
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
@@ -144,8 +143,6 @@ Location:      Rishikesh, Uttarakhand, India
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 <br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aman17123&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 
 </div>
 
