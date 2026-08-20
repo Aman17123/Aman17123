@@ -131,9 +131,6 @@ Location:      Rishikesh, Uttarakhand, India
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Aman17123&theme=tokyonight&hide_border=true" width="70%"/>
