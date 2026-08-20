@@ -127,27 +127,6 @@ Location:      Rishikesh, Uttarakhand, India
 
 <br/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<!--
-  Replace REPO_NAME below with your actual repository names to activate these cards.
-  Format: https://github-readme-stats.vercel.app/api/pin/?username=Aman17123&repo=REPO_NAME
--->
-
-<a href="https://github.com/Aman17123/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman17123&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="47%"/>
-</a>
-<a href="https://github.com/Aman17123/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman17123&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="47%"/>
-</a>
-
-<sub>💡 Swap <code>REPO_NAME_1</code> / <code>REPO_NAME_2</code> for your pinned repos, or use GitHub's own "Pin repositories" feature for a native version of this.</sub>
-
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
