@@ -1,16 +1,17 @@
 <!-- GitHub Profile README for github.com/Aman17123 -->
-
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Hi%20I'm%20Aman%20Nakoti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%26%20Next.js%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Aman+Nakoti+%F0%9F%91%8B;React+%26+Next.js+Intern+%40+Devbhoomi+Infotech;MERN+Stack+Developer;Building+Responsive+%26+AI-Powered+Web+Apps"
-    alt="Typing introduction"
-  />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=React+%26+Next.js+Intern+%40+Devbhoomi+Infotech;MERN+Stack+Developer;Building+Responsive+%26+AI-Powered+Web+Apps;Always+Learning%2C+Always+Shipping"
+  alt="Typing introduction"
+/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/💼_Currently_Interning_at-Devbhoomi_Infotech-58A6FF?style=for-the-badge&labelColor=0d1117" alt="Current Internship"/>
+<img src="https://img.shields.io/badge/📍_Based_in-Rishikesh,_India-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Location"/>
 
 <p>
   <strong>React & Next.js Intern</strong> · <strong>Freelance Web Developer</strong> · <strong>MERN Stack Developer</strong>
@@ -127,44 +128,77 @@ Location:      Rishikesh, Uttarakhand, India
 
 <br/>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<!--
+  Replace REPO_NAME below with your actual repository names to activate these cards.
+  Format: https://github-readme-stats.vercel.app/api/pin/?username=Aman17123&repo=REPO_NAME
+-->
+
+<a href="https://github.com/Aman17123/REPO_NAME_1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman17123&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="47%"/>
+</a>
+<a href="https://github.com/Aman17123/REPO_NAME_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aman17123&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="47%"/>
+</a>
+
+<sub>💡 Swap <code>REPO_NAME_1</code> / <code>REPO_NAME_2</code> for your pinned repos, or use GitHub's own "Pin repositories" feature for a native version of this.</sub>
+
+</div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aman17123&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=Aman17123&theme=tokyonight&hide_border=true" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aman17123&theme=tokyonight&no-frame=true&row=1&column=6" width="95%"/>
 
 </div>
 
+<br/>
+
 ## 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://amannakoti.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aman-nakoti/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Aman17123">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/amangate9897/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="mailto:www.amannakoti103@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 <div align="center">
+
+<a href="https://amannakoti.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/aman-nakoti/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Aman17123">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/u/amangate9897/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="mailto:www.amannakoti103@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 ### Let's build something useful together 🚀
 
 Open to internships, frontend development, MERN stack roles, and freelance/collaboration opportunities.
 
 **Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%"/>
 
 </div>
