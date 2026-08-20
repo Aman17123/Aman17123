@@ -1,7 +1,6 @@
 <!-- GitHub Profile README for github.com/Aman17123 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=220&section=header&text=Hi%20I'm%20Aman%20Nakoti&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=React%20%26%20Next.js%20Developer%20%7C%20MERN%20Stack&descAlignY=55&descSize=18" width="100%"/>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=React+%26+Next.js+Intern+%40+Devbhoomi+Infotech;MERN+Stack+Developer;Building+Responsive+%26+AI-Powered+Web+Apps;Always+Learning%2C+Always+Shipping"
