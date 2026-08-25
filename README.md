@@ -2,7 +2,10 @@
 <!-- GitHub Profile README for github.com/Aman17123 -->
 <div align="center">
 
-
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=React+%26+Next.js+Intern+%40+Devbhoomi+Infotech;MERN+Stack+Developer;Building+Responsive+%26+AI-Powered+Web+Apps;Always+Learning%2C+Always+Shipping"
+  alt="Typing introduction"
+/>
 
 
 <br/>
