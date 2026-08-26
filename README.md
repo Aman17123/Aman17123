@@ -1,136 +1,98 @@
-# 👋 Hi, I'm Aman Nakoti
 
+<!-- GitHub Profile README for github.com/Aman17123 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=React+%26+Next.js+Intern+%40+Devbhoomi+Infotech;MERN+Stack+Developer;Building+AI-Powered+Web+Applications;Open+to+Frontend+and+Full+Stack+Opportunities;Always+Learning+and+Building" alt="Typing Introduction"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=React+%26+Next.js+Intern+%40+Devbhoomi+Infotech;MERN+Stack+Developer;Building+Responsive+%26+AI-Powered+Web+Apps;Always+Learning%2C+Always+Shipping"
+  alt="Typing introduction"
+/>
 
-<br/><br/>
+
+<br/>
 
 <img src="https://img.shields.io/badge/💼_Currently_Interning_at-Devbhoomi_Infotech-58A6FF?style=for-the-badge&labelColor=0d1117" alt="Current Internship"/>
 <img src="https://img.shields.io/badge/📍_Based_in-Rishikesh,_India-2ea44f?style=for-the-badge&labelColor=0d1117" alt="Location"/>
 
-<br/><br/>
+<p>
+  <strong>React & Next.js Intern</strong> · <strong>Freelance Web Developer</strong> · <strong>MERN Stack Developer</strong>
+</p>
 
-<strong>React & Next.js Intern</strong> • <strong>Freelance Web Developer</strong> • <strong>MERN Stack Developer</strong>
+<p>
+  B.Tech Computer Science student focused on building responsive, accessible,
+  animated, and production-ready web applications.
+</p>
 
-<br/><br/>
+<p>
+  <a href="https://amannakoti.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aman-nakoti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aman%20Nakoti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Aman17123">
+    <img src="https://img.shields.io/badge/GitHub-Aman17123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-B.Tech Computer Science student passionate about building modern, responsive, accessible, and production-ready web applications with a focus on performance, user experience, and scalable architecture.
-
-<br/><br/>
-
-<a href="https://amannakoti.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="https://www.linkedin.com/in/aman-nakoti/">
-  <img src="https://img.shields.io/badge/LinkedIn-Aman%20Nakoti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Aman17123">
-  <img src="https://img.shields.io/badge/GitHub-Aman17123-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<a href="https://leetcode.com/u/amangate9897/">
-  <img src="https://img.shields.io/badge/LeetCode-amangate9897-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
-</a>
-
-<a href="mailto:www.amannakoti103@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Aman17123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+<p>
+  <a href="https://leetcode.com/u/amangate9897/">
+    <img src="https://img.shields.io/badge/LeetCode-amangate9897-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="mailto:www.amannakoti103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Aman17123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views"/>
+</p>
 
 </div>
 
----
+<br/>
 
-## 💼 Current Status
+## 💼 Currently
 
-```javascript
+```txt
 const aman = {
   role: "React & Next.js Intern",
   company: "Devbhoomi Infotech",
-  alsoDoing: "Freelance Web Development",
-  education: "B.Tech Computer Science",
+  companyUrl: "https://www.devbhoomiinfotech.com/",
+  alsoDoing: "Freelance web development",
   location: "Rishikesh, Uttarakhand, India",
-  focus: [
-    "Frontend Development",
-    "Full Stack Applications",
-    "AI-Powered Products",
-    "Performance & SEO"
-  ],
-  status: "Open to Frontend, React, Next.js, MERN and Freelance Opportunities"
+  status: "Open to internships, frontend roles & freelance projects"
 };
 ```
 
-🏢 Currently working as a **React.js & Next.js Intern** at **Devbhoomi Infotech**, building modern and production-ready web applications for real-world clients.
+> 🏢 Interning as a **React.js & Next.js Developer** at **[Devbhoomi Infotech](https://www.devbhoomiinfotech.com/)** — building and shipping real client-facing web applications.
+> 🧑‍💻 Alongside my internship, I take on **freelance frontend/full-stack projects**, building responsive websites and web apps for clients.
 
-🧑‍💻 Alongside my internship, I work on freelance projects and develop full-stack applications using the MERN stack and modern frontend technologies.
-
----
+<br/>
 
 ## 👨‍💻 About Me
 
 ```yaml
-Education:     B.Tech Computer Science
-University:    Uttaranchal University, Dehradun
-Current Role:  React & Next.js Intern @ Devbhoomi Infotech
+Education:     B.Tech Computer Science, Uttaranchal University, Dehradun
+Currently:     React & Next.js Intern @ Devbhoomi Infotech
 Also:          Freelance Web Developer
-Tech Stack:    React.js · Next.js · MERN Stack
-Focus:         Scalable web applications, modern UI/UX, SEO & performance
-Backend:       Node.js · Express.js · MongoDB
-Exploring:     AI Integrations, Automation & Workflow Systems
-DSA:           Practicing Data Structures & Algorithms with C++
-Open To:       Internships · Frontend Roles · Full Stack Roles · Freelance Projects
+Stack:         React.js · Next.js · MERN
+Focus:         Responsive interfaces, animation, clean UX
+Backend:       REST APIs, authentication, database-driven apps
+Exploring:     AI-powered products & workflow automation
+DSA:           Practising with C++
+Open to:       Internships · Frontend roles · MERN opportunities · Freelance work
+Location:      Rishikesh, Uttarakhand, India
 ```
 
----
+<br/>
 
 ## 🎯 Current Learning Goals
 
-* 🔧 Building scalable backend systems using Node.js, Express.js, and MongoDB
-* 🔐 Improving authentication, security, and API architecture
-* 🤖 Integrating AI into practical web applications
-* ⚡ Learning workflow automation with n8n and AI tools
-* 🧠 Strengthening DSA and problem-solving using C++
-* 🚀 Improving Core Web Vitals, SEO, and accessibility in Next.js applications
+- 🔧 Building scalable backend services with Node.js, Express.js and MongoDB
+- 🔐 Improving authentication, API security and database architecture
+- 🤖 Integrating AI capabilities into practical web applications
+- ⚡ Learning workflow automation using tools such as n8n
+- 🧠 Strengthening Data Structures and Algorithms with C++
+- 🚀 Improving performance, accessibility and SEO in Next.js applications
 
----
-
-## 🚀 Featured Projects
-
-### 🤖 AI Resume Builder
-
-* ATS-friendly resume generation
-* AI Resume Enhancer
-* Professional templates
-* Next.js + Tailwind CSS
-
-### 📢 AI Social Media Automation Platform
-
-* AI-generated content workflows
-* Multi-platform posting automation
-* OAuth Authentication
-* MERN Stack + Gemini API
-
-### 🧘 Hatha Yogashala
-
-* SEO Optimized Yoga School Website
-* Retreat & Teacher Training Pages
-* Next.js 16 + Tailwind CSS
-* Local SEO & Performance Focus
-
-### 🏫 DevBhoomi School Website
-
-* Dynamic School Management Website
-* Admin Dashboard
-* Next.js + MongoDB
-* Responsive UI/UX
-
----
+<br/>
 
 ## 🛠️ Technical Skills
 
@@ -138,111 +100,78 @@ Open To:       Internships · Frontend Roles · Full Stack Roles · Freelance Pr
 <tr>
 <td valign="top" width="50%">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,py" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
-
+**Languages**
 <br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,cpp,py" alt="Programming languages"/>
 
-<img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+**Frontend Development**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer,threejs" alt="Frontend technologies"/>
 
 </td>
-
 <td valign="top" width="50%">
 
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
-
+**Backend & Databases**
 <br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" alt="Backend and databases"/>
+<br/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose"/>
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs"/>
 
-<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-
-### Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+**Tools & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" alt="Development tools"/>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📈 GitHub Statistics
+
+## 📊 GitHub Stats
 
 <div align="center">
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aman17123&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman17123&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Aman17123&theme=tokyonight&hide_border=true" width="70%"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Aman17123&theme=tokyonight&hide_border=true" width="80%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman17123&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
 </div>
 
----
-
-## 🏆 Core Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,git,github,vercel" />
-
-</div>
-
----
+<br/>
 
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://amannakoti.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://amannakoti.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-
 <a href="https://www.linkedin.com/in/aman-nakoti/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="https://github.com/Aman17123">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://leetcode.com/u/amangate9897/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-
 <a href="mailto:www.amannakoti103@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
+### Let's build something useful together 🚀
 
----
+Open to internships, frontend development, MERN stack roles, and freelance/collaboration opportunities.
 
-<div align="center">
+**Thanks for visiting my profile!**
 
-### 🚀 Let's Build Something Amazing Together
-
-Open to:
-**Frontend Development • React.js • Next.js • MERN Stack • Freelance Projects • Collaboration Opportunities**
-
-**Thanks for visiting my profile! ⭐**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25&height=100&section=footer" width="100%"/>
 
 </div>
